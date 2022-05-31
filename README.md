@@ -16,3 +16,10 @@ In this file you can set Appium server URL and Desired Capabilities for Appium s
 
 ## Calculator
 In the [calculator](https://github.com/hperzu/Android-calculator-tests/tree/main/calculator) folder can be found files with basic classes and methods.
+
+## Test scenaroius 
+In the [test_scenarios/calculator](https://github.com/hperzu/Android-calculator-tests/tree/main/test_scenarios/calculator) can be found files with conftest and test cases for calculator.
+### Test case 1
+In this test, two digits are added and it is checked if the results are correct.
+### Test case 2
+In this test, two digits are multiplied and it is checked if the results are correct.
